@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949542926155",
+    "project_id": "silent-app-fecb4",
+    "storage_bucket": "silent-app-fecb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949542926155:android:c42a3727f7ebef3c381ace",
+        "android_client_info": {
+          "package_name": "com.example.silent_talk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9iIjgEzj_SPNcIIlPGNqEPWSJeZxBhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
