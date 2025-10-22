@@ -1,8 +1,5 @@
 [[Japanese](README.md)/English]
 
-> **Note**
-> <br>I created a repository of model zoo for keypoint classification.
-> <br>→ [Kazuhito00/hand-keypoint-classification-model-zoo](https://github.com/Kazuhito00/hand-keypoint-classification-model-zoo)
 
 # hand-gesture-recognition-using-mediapipe
 Estimate hand pose using MediaPipe(Python version).<br> This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
